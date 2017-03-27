@@ -10,7 +10,7 @@
 }
 
 .carousel-btn {
-  border: 4px solid #fff;
+  border: 2px solid gray;
   border-radius: 50%;
 
 }
@@ -19,6 +19,6 @@
 #elasmotherium-control:checked ~ .carousel-inner [for="elasmotherium-control"],
 #glyptodon-control:checked ~ .carousel-inner [for="glyptodon-control"],
 #megatherium-control:checked ~ .carousel-inner [for="megatherium-control"] {
-  background-color: #fff;
+  background-color: gray;
 
 }
